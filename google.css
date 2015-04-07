@@ -1,0 +1,9 @@
+nav ul li {
+	display: inline-block;
+	*display: inline;
+	*zoom: 1;
+	list-style-type: none;
+}
+nav ul {
+	float: right;
+}
