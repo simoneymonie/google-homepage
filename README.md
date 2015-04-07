@@ -1,3 +1,4 @@
 # google-homepage
-http://www.theodinproject.com/web-development-101/html-css?ref=lnav
+
+<a href="http://www.theodinproject.com/web-development-101/html-css?ref=lnav">Link to project</a><br>
 Practice makes perfect..
